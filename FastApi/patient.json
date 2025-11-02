@@ -1,36 +1,17 @@
 {
-   "patient":{
+   "P001":{
       "name":"John Smith",
       "age":35,
       "gender":"male",
       "blood_type":"AB+",
       "address":"123 Main Street, Anytown, USA",
-      "phone":"555-1234",
-      "email":"john.smith@example.com",
-      "appointments":[
-         {
-            "doctor":"Dr. Jane Doe",
-            "date":"2023-03-01",
-            "time":"14:00",
-            "reason":"Annual Checkup"
-         },
-         {
-            "doctor":"Dr. John Smith",
-            "date":"2023-05-12",
-            "time":"10:30",
-            "reason":"Follow-up for knee surgery"
-         }
-      ],
+      "appointments":"Dr. Jane Doe",
       "medical_records":[
          {
-            "date":"2022-12-15",
-            "doctor":"Dr. Jane Doe",
             "diagnosis":"Common cold",
             "prescription":"Rest, fluids, and over-the-counter medication"
          },
          {
-            "date":"2022-11-01",
-            "doctor":"Dr. John Smith",
             "diagnosis":"Knee injury",
             "prescription":"Physical therapy and pain medication"
          }
