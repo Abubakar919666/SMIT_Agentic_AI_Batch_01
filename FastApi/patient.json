@@ -10,10 +10,34 @@
          {
             "diagnosis":"Common cold",
             "prescription":"Rest, fluids, and over-the-counter medication"
-         },
+         }
+      ]
+   },
+      "P002":{
+      "name":"Sunny",
+      "age":40,
+      "gender":"male",
+      "blood_type":"B+",
+      "address":"123 Main Street, Anytown, London",
+      "appointments":"Dr. Jane Doe",
+      "medical_records":[
          {
             "diagnosis":"Knee injury",
             "prescription":"Physical therapy and pain medication"
+         }
+      ]
+   },
+      "P003":{
+      "name":"Sameer",
+      "age":35,
+      "gender":"male",
+      "blood_type":"O+",
+      "address":"123 Main Street, Anytown, Pakistan",
+      "appointments":"Dr. Jane Doe",
+      "medical_records":[
+         {
+            "diagnosis":"Fever",
+            "prescription":"Rest, fluids, and headache"
          }
       ]
    }
