@@ -35,4 +35,4 @@ def view_patient(patient_id: str = Path(..., description='ID of the patient in t
 
 @app.get("/sort")
 def sort_patient(sort_by: str):
-    return 
+    return sort_
